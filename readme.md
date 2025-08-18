@@ -36,6 +36,4 @@ A implementação de ferramentas na empresa Abstergo Industries tem como esperad
 
 **Assinatura do Responsável pelo Projeto:**
 
-Henrique José De Souza
-*Analista de Cloud Computing*  
-*Abstergo Industries*
+Henrique Souza
